@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: aquamarine;
+}
+
+h1,
+h3 {
+    color: brown;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.1rem;
+}
+
+div {
+    padding: 0 2em;
+    position: relative;
+    top: 35%;
+}
